@@ -1,6 +1,9 @@
 <h2>Motivation</h2>
 Experiment with recommendation systems
 
+<h2>Status</h2>
+Half baked , need to compute cost function and derivative of cost. Currently i do not see challange doing so
+
 
 <h2>Content</h2>
 <table>
